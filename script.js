@@ -109,5 +109,6 @@ window.clientId = clientId;
 window.cadastrar = cadastrar;
 window.limpar = limpar;
 
+
 // Carregar os clientes ao carregar a página
 document.addEventListener('DOMContentLoaded', ocultarCadastro);
